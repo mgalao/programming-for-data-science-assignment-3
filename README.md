@@ -6,7 +6,7 @@
 
 ## Submission Details
 - **Platform**: Moodle
-- **Deadline**: 25th October, 11:59 PM
+- **Deadline**: 2nd November, 12 PM
 
 ## Assignment Overview
 This repository contains the materials for our third assignment in the Programming for Data Science course. Our task is to solve a series of coding exercises.
